@@ -19,4 +19,4 @@ This game is about guessing a random number and get a high score in it.
 
 Contact me at >ahmadfed@outlook.com OR ahmadfed.web@gmail.com
 follow me on Linkedin
-[Ahmad FED] (https://www.linkedin.com/in/ahmadfed/ '@ahmadfed')
+[Ahmad FED](https://www.linkedin.com/in/ahmadfed/ '@ahmadfed')
